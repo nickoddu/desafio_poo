@@ -1,0 +1,15 @@
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\bin\Debug\net9.0\DesafioPOO.exe
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\bin\Debug\net9.0\DesafioPOO.deps.json
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\bin\Debug\net9.0\DesafioPOO.runtimeconfig.json
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\bin\Debug\net9.0\DesafioPOO.dll
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\bin\Debug\net9.0\DesafioPOO.pdb
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.dll
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\refint\DesafioPOO.dll
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.pdb
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\ref\DesafioPOO.dll
+C:\Users\dudap\OneDrive\Documentos\Profissional\GFT\DesafioPOO\obj\Debug\net9.0\DesafioPOO.sourcelink.json
